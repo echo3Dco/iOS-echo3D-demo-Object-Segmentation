@@ -12,24 +12,24 @@ If you don't have an echoAR API key yet, make sure to register for FREE at [echo
 
 ## Usage
 - Open the application and you will see the home screen.
-  <br> <br> <img src="./ScreenShots/homeScreen.PNG" width=300 height = 500>
+  <br> <br> <img src="./Screenshots/homeScreen.PNG" width=300 height = 500>
 - There are two options at the top-right corner of the navigation bar.
   - Photogallery: If you want to choose image from photo-gallery.
   - Camera: If you choose to take an new image.
 
 - After choosing an image either from camera or photogallery, click "Begin Button" to start foreground extraction
-    <br> <br> <img src="./ScreenShots/OriginalImage.PNG" width=300 height = 500> 
+    <br> <br> <img src="./Screenshots/OriginalImage.PNG" width=300 height = 500> 
 
 - Original Image will be processed to extract the foreground.
-    <br> <br> <img src="./ScreenShots/maskedImage.PNG" width=300 height = 500> 
+    <br> <br> <img src="./Screenshots/maskedImage.PNG" width=300 height = 500> 
 
 - If you wish to upload image to the echoAR console, click on the upload button at the top left corner.
   - There will be a prompt to enter API key.
-  <br><br> <img src="./ScreenShots/apiKeyPromp.PNG" width=300 height = 500> 
+  <br><br> <img src="./Screenshots/apiKeyPromp.PNG" width=300 height = 500> 
   - After entering API-Key, enter the name of the image and click on Upload.
-     <br><br> <img src="./ScreenShots/uploadKeyPromp.PNG" width=300 height = 500> 
+     <br><br> <img src="./Screenshots/uploadKeyPromp.PNG" width=300 height = 500> 
   - Image will be available at the console and can be used for different projects.
-     <br><br> <img src="./ScreenShots/console.png" width=300 height = 500>  
+     <br><br> <img src="./Screenshots/console.png" width=300 height = 500>  
 
 
 ## Creating APIRequest
