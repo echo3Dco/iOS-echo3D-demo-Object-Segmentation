@@ -80,10 +80,5 @@ Refer to our [documentation](https://docs.echoar.xyz/unity/) to learn more about
 Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or join our [support channel on Slack](https://join.slack.com/t/echoar/shared_invite/enQtNTg4NjI5NjM3OTc1LWU1M2M2MTNlNTM3NGY1YTUxYmY3ZDNjNTc3YjA5M2QyNGZiOTgzMjVmZWZmZmFjNGJjYTcxZjhhNzk3YjNhNjE). 
 
 ## Screenshots
-![screenshot1](/Screenshots/OriginalImage.PNG)
-![screenshot2](/Screenshots/MaskedImage.PNG)
-![screenshot3](/Screenshots/apiKeyPromp.PNG)
-![screenshot4](/Screenshots/uploadKeyPromp.PNG)
-![console](/Screenshots/console.png)
 ![screenshot5](/Screenshots/clockOriginalImage.png)
 ![screenshot6](/Screenshots/clockMaskImage.PNG)
