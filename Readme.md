@@ -1,5 +1,4 @@
-# echoAR Object Segmentation 
-
+# iOS-echoAR-demo-Object-Segmentation
 Foreground extraction iOS Applciation. The app let's the user to select an image, extract foreground and upload the image object to the echoAR console.
 
 ## Register
@@ -31,9 +30,7 @@ If you don't have an echoAR API key yet, make sure to register for FREE at [echo
   - Image will be available at the console and can be used for different projects.
      <br><br> <img src="./Screenshots/console.png" width=300 height = 500>  
 
-
 ## Creating APIRequest
-
 If you want to add image upload functionality to your custom application, add `APIRequest.swift` and `Media.swift` to your project folder.
 
 - To make an http-post request create an `APIRequest` object: 
