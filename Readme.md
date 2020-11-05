@@ -1,5 +1,5 @@
 # iOS-echoAR-demo-Object-Segmentation
-Foreground extraction iOS Applciation. The app let's the user to select an image, extract foreground and upload the image object to the echoAR console.
+Foreground extraction iOS application. The app let's the user to select an image, extract foreground and upload the image object to the echoAR console.
 
 ## Register
 If you don't have an echoAR API key yet, make sure to register for FREE at [echoAR](https://console.echoar.xyz/#/auth/register).
