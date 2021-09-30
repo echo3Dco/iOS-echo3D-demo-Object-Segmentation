@@ -1,8 +1,8 @@
-# iOS-echoAR-demo-Object-Segmentation
-Foreground extraction iOS application. The app let's the user to select an image, extract foreground and upload the image object to the echoAR console.
+# iOS-echo3D-demo-Object-Segmentation
+Foreground extraction iOS application. The app let's the user to select an image, extract foreground and upload the image object to the echo3D console.
 
 ## Register
-If you don't have an echoAR API key yet, make sure to register for FREE at [echoAR](https://console.echoar.xyz/#/auth/register).
+If you don't have an echo3D API key yet, make sure to register for FREE at [echo3D](https://console.echo3D.co/#/auth/register).
 
 ## Installation
 - Clone the project from the github repository.
@@ -22,7 +22,7 @@ If you don't have an echoAR API key yet, make sure to register for FREE at [echo
 - Original Image will be processed to extract the foreground.
     <br> <br> <img src="./Screenshots/maskedImage.PNG" width=300 height = 500> 
 
-- If you wish to upload image to the echoAR console, click on the upload button at the top left corner.
+- If you wish to upload image to the echo3D console, click on the upload button at the top left corner.
   - There will be a prompt to enter API key.
   <br><br> <img src="./Screenshots/apiKeyPromp.PNG" width=300 height = 500> 
   - After entering API-Key, enter the name of the image and click on Upload.
@@ -71,10 +71,10 @@ postRequest.send(imageToPost: UIimage,fileName: String, APIKey: String, completi
     
    
 ## Learn more
-Refer to our [documentation](https://docs.echoar.xyz/unity/) to learn more about how to use Unity, AR Foundation, and echoAR.
+Refer to our [documentation](https://docs.echo3D.co/unity/) to learn more about how to use Unity, AR Foundation, and echo3D.
 
 ## Support
-Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or join our [support channel on Slack](https://join.slack.com/t/echoar/shared_invite/enQtNTg4NjI5NjM3OTc1LWU1M2M2MTNlNTM3NGY1YTUxYmY3ZDNjNTc3YjA5M2QyNGZiOTgzMjVmZWZmZmFjNGJjYTcxZjhhNzk3YjNhNjE). 
+Feel free to reach out at [support@echo3D.co](mailto:support@echo3D.co) or join our [support channel on Slack](https://go.echo3D.co/join). 
 
 ## Screenshots
 ![screenshot5](/Screenshots/clockOriginalImage.png)
